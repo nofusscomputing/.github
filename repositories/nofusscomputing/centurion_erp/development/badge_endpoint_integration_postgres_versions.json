@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "label": "Postgres",
-  "message": "Tests available in next release",
+  "label": "PostgreSQL",
+  "message": "13| 14| 15| 16| 17",
   "color": "#336791",
   "style": "plastic"
 }
